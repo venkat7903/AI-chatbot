@@ -76,7 +76,6 @@ body {
 
 .project-description {
   position: relative;
-  white-space: pre-wrap;
   max-width: 569px;
   word-break: break-word;
   outline: none;
